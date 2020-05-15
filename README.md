@@ -1,4 +1,4 @@
-# docker-ubuntu-install
+# Docker-ubuntu-install
 A simple shell script for install docker.ce and docker-compose
 
 ### After clone this repo, remember to change the permissions (with su user)
